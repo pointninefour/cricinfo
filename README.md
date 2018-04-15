@@ -1,2 +1,2 @@
-# cricinfo
-Scraping Cricinfo data
+# Cricinfo
+Scraping Cricinfo data from cricinfo.com
